@@ -1,9 +1,8 @@
 ```markdown
 # CSE350 — BRAC University Course Resources
 
-> A student-maintained, organized collection of CSE350 study materials for BRAC University.
+> An organized collection of CSE350 study materials for BRAC University.
 
-This repository brings the course resources into one place so you can move from **lecture material → notes → practice → assignments → labs → project → previous exams** without digging through folders.
 
 ## 📌 Quick Navigation
 
@@ -37,14 +36,6 @@ Based on the materials currently stored in this repository, the collection cover
 **Transistor Logic:** MOSFET Logic and CMOS Logic  
 **Problem Solving:** noise margin, fan-out, power dissipation, logic circuits, ADC/DAC calculations and Schmitt-trigger/signal-generator problems  
 **Assessment Prep:** assignments, quizzes, practice sheets, midterms, finals and solved papers
-
-## 🚀 Suggested Study Flow
-
-**1. Course Policy → 2. Lecture Slides / Notes → 3. Practice Problems → 4. Assignments & Quizzes → 5. Lab Sheets → 6. Previous Questions → 7. Solutions**
-
-> **Tip:** Start with the lecture slides/notes for a topic, solve the matching practice sheet, then use previous questions for exam preparation.
-
----
 
 ## 📘 Course Policy
 
@@ -314,38 +305,10 @@ The current project materials include a **pulse-width modulation (PWM)** project
 
 ---
 
-## 🧭 Finding Material Quickly
-
-Use your browser's **Find** feature (`Ctrl + F`) and search for keywords such as:
-
-`RTL` · `DTL` · `TTL` · `ADC` · `DAC` · `Schmitt` · `MOSFET` · `CMOS` · `Assignment` · `Quiz` · `Midterm` · `Final` · `Lab` · `PWM`
-
-## 📁 Main Folders
-
-| Folder | Purpose |
-|---|---|
-| [LAB](./LAB) | Lab guides, experiment sheets, solutions and project materials |
-| [Theory](./Theory) | Lecture slides, notes, assignments, practice and quizzes |
-| [Text Books](./Text%20Books) | Reference books and topic-specific materials |
-| [Previous Years — Questions](./Previous%20Years_%20Questions%20%26%20Solutions/Questions) | Previous exam question papers |
-| [Previous Years — Solutions](./Previous%20Years_%20Questions%20%26%20Solutions/Solutions) | Previous exam solutions |
-
----
-
-## ⚠️ Notes
-
-- This repository is organized for **study and reference** and is not a replacement for official course announcements or instructor-provided materials.
-- Some files may come from different semesters, instructors or student collections; always check the semester/title before using a document for a specific assessment.
-- Please respect the original copyright, authorship and university sharing policies for any textbook or externally provided material.
-
----
 
 ## 👤 Repository
 
 Maintained by **Rubyeat Wadud Galpa**  
 GitHub: [@rgalpa](https://github.com/rgalpa)
 
-### ⭐ Purpose
-
-The goal of this repository is simple: **make CSE350 resources easy to discover, easy to navigate, and easy to study from.**
 ```
