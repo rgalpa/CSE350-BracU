@@ -1,5 +1,5 @@
 ```markdown
-# CSE350 — BRAC University Course Resources
+# CSE350 — BRAC University Course Resources (Last Update Summer2026)
 
 > An organized collection of CSE350 study materials for BRAC University.
 
